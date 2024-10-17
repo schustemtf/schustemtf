@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying computer science in Germany, specialising on AI and data engineering.<br>🌱 I’m currently learning: Deep Learning, Data Warehousing, MiniZinc<br>🤔 I want to learn next: Rust🦀<br>⚡ Fun fact
+🔭 I’m currently studying computer science in Germany, specialising on AI and data engineering.<br>🌱 I’m currently learning: Deep Learning, Data Warehousing, MiniZinc<br>🤔 I want to learn next: Rust🦀<br>
 
 
 ## 🌐 Socials:
