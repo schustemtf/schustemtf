@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying computer science in Germany, specialising on AI and data engineering.<br>🌱 I’m currently learning: About attribution and uncertaintiy analysis in multi-modal time series models <br>🤔 I want to learn next: Developing desktop applications in Rust🦀 for fun side projects<br>
+🔭 I’m currently studying computer science in Germany, specialising on AI and data engineering.<br>🌱 I’m currently learning: About attribution and uncertaintiy analysis in multi-modal time series models <br>🤔 I want to learn next: Developing desktop applications with Zig ⚡️ and Raylibgui for fun side projects<br>
+Looking for a PhD position in adversarial machine learning and related fields. 
 
 
 ## 🌐 Socials:
